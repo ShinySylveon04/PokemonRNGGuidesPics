@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Notification Title",
+    "text": "Notifications go here.",
+    "date": "2020-1-1"
+  },
+  {
+    "id": 2,
+    "text": "Another notification.",
+    "date": "2021-08-22"
+  },
+  {
+    "id": 3,
+    "title": "New Redesign",
+    "text": "<a style=\"color: primary;\" target=\"_blank\" rel=\"noopener\" href=\"https://pokemonrng.com\">Notification Link</a>"
+  }
+]
