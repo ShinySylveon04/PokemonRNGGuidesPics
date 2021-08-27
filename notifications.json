@@ -14,5 +14,10 @@
     "id": 3,
     "title": "New Redesign",
     "text": "<a style=\"color: primary;\" target=\"_blank\" rel=\"noopener\" href=\"https://pokemonrng.com\">Notification Link</a>"
-  }
+  },
+  {
+    "id": 4,
+    "title": "Fetching from Github",
+    "text": "These notifications are coming from Github.",
+    "date": "2021-8-27"
 ]
